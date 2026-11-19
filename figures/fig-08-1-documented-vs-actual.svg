@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 534" width="640" height="534" role="img" aria-label="Documented process versus actual process">
+<title>Documented process versus actual process</title>
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7b8794"/>
+  </marker>
+  <marker id="arr-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#1f2933"/>
+  </marker>
+  <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <rect width="10" height="10" fill="#ffffff"/>
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#c4c4c4" stroke-width="1.6"/>
+  </pattern>
+</defs>
+<rect width="640" height="534" fill="#ffffff"/>
+<text x="15" y="30" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="15" dy="0.0">As documented</tspan></text>
+<rect x="15" y="44" width="100" height="42" rx="8" fill="#f1f3f5" stroke="#9aa5b1" stroke-width="1.6"/>
+<text x="65.0" y="70.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="65.0" dy="0.0">Receive</tspan></text>
+<line x1="117" y1="65" x2="143" y2="65" stroke="#7b8794" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="145" y="44" width="100" height="42" rx="8" fill="#f1f3f5" stroke="#9aa5b1" stroke-width="1.6"/>
+<text x="195.0" y="70.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="195.0" dy="0.0">Check</tspan></text>
+<line x1="247" y1="65" x2="273" y2="65" stroke="#7b8794" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="275" y="44" width="100" height="42" rx="8" fill="#f1f3f5" stroke="#9aa5b1" stroke-width="1.6"/>
+<text x="325.0" y="70.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="325.0" dy="0.0">Approve</tspan></text>
+<line x1="377" y1="65" x2="403" y2="65" stroke="#7b8794" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="405" y="44" width="100" height="42" rx="8" fill="#f1f3f5" stroke="#9aa5b1" stroke-width="1.6"/>
+<text x="455.0" y="70.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="455.0" dy="0.0">Enter</tspan></text>
+<line x1="507" y1="65" x2="533" y2="65" stroke="#7b8794" stroke-width="1.8" marker-end="url(#arr)"/>
+<rect x="535" y="44" width="100" height="42" rx="8" fill="#f1f3f5" stroke="#9aa5b1" stroke-width="1.6"/>
+<text x="585.0" y="70.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="585.0" dy="0.0">Pay</tspan></text>
+<text x="15" y="140" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="17" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="15" dy="0.0">As the work actually runs</tspan></text>
+<rect x="113" y="170" width="34" height="22" fill="#fde2c4" stroke="#c4661f" stroke-width="1.2"/>
+<rect x="243" y="170" width="34" height="22" fill="#fde2c4" stroke="#c4661f" stroke-width="1.2"/>
+<rect x="373" y="170" width="34" height="22" fill="#fde2c4" stroke="#c4661f" stroke-width="1.2"/>
+<rect x="503" y="170" width="34" height="22" fill="#fde2c4" stroke="#c4661f" stroke-width="1.2"/>
+<rect x="15" y="160" width="100" height="42" rx="8" fill="#d6e6f5" stroke="#2f6fae" stroke-width="1.6"/>
+<text x="65.0" y="186.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="65.0" dy="0.0">Receive</tspan></text>
+<rect x="145" y="160" width="100" height="42" rx="8" fill="#d6e6f5" stroke="#2f6fae" stroke-width="1.6"/>
+<text x="195.0" y="186.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="195.0" dy="0.0">Check</tspan></text>
+<rect x="275" y="160" width="100" height="42" rx="8" fill="#d6e6f5" stroke="#2f6fae" stroke-width="1.6"/>
+<text x="325.0" y="186.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="325.0" dy="0.0">Approve</tspan></text>
+<rect x="405" y="160" width="100" height="42" rx="8" fill="#d6e6f5" stroke="#2f6fae" stroke-width="1.6"/>
+<text x="455.0" y="186.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="455.0" dy="0.0">Enter</tspan></text>
+<rect x="535" y="160" width="100" height="42" rx="8" fill="#d6e6f5" stroke="#2f6fae" stroke-width="1.6"/>
+<text x="585.0" y="186.2" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="585.0" dy="0.0">Pay</tspan></text>
+<path d="M195.0,204 C195.0,254 65.0,254 65.0,206" fill="none" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)" stroke-dasharray="6 4"/>
+<path d="M325.0,204 C325.0,294 195.0,294 195.0,206" fill="none" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)" stroke-dasharray="6 4"/>
+<path d="M585.0,204 C585.0,334 325.0,334 325.0,206" fill="none" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)" stroke-dasharray="6 4"/>
+<text x="130.0" y="268" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d" font-style="italic"><tspan x="130.0" dy="0.0">missing info:</tspan></text>
+<text x="130.0" y="285" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d" font-style="italic"><tspan x="130.0" dy="0.0">ask again</tspan></text>
+<text x="266.0" y="310" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d" font-style="italic"><tspan x="266.0" dy="0.0">sent back</tspan></text>
+<text x="435.0" y="352" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d" font-style="italic"><tspan x="435.0" dy="0.0">mismatch: re-approve</tspan></text>
+<rect x="430" y="372" width="195" height="44" rx="8" fill="#ece4f5" stroke="#6b4fa0" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="527" y="398.9" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="527" dy="0.0">Manual exception queue</tspan></text>
+<path d="M475.0,204 C485.0,300 520,330 527,370" fill="none" stroke="#7b8794" stroke-width="1.8" marker-end="url(#arr)" stroke-dasharray="6 4"/>
+<rect x="15" y="433" width="30" height="20" fill="#fde2c4" stroke="#c4661f" stroke-width="1.2"/>
+<text x="56" y="448" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="start" fill="#1f2933"><tspan x="56" dy="0.0">Waiting between steps: queues, handoffs,</tspan></text>
+<text x="56" y="467" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="start" fill="#1f2933"><tspan x="56" dy="0.0">approvals. Usually most of the elapsed time.</tspan></text>
+<line x1="15" y1="494" x2="45" y2="494" stroke="#1f2933" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="56" y="499" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="start" fill="#1f2933"><tspan x="56" dy="0.0">Rework loops and exception paths missing</tspan></text>
+<text x="56" y="518" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="start" fill="#1f2933"><tspan x="56" dy="0.0">from the documentation.</tspan></text>
+</svg>

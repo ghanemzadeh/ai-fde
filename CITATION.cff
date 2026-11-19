@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the book."
+title: "Forward Deployed AI Engineering: companion repository"
+type: software
+authors:
+  - family-names: Ghanemzadeh
+    given-names: Nasser
+    website: "https://ghanemzadeh.com"
+repository-code: "https://github.com/ghanemzadeh/ai-fde"
+license: MIT
+keywords:
+  - forward deployed engineer
+  - FDE
+  - AI engineering
+  - enterprise AI
+  - LLM evals
+preferred-citation:
+  type: book
+  title: "Forward Deployed AI Engineering: The Forward Deployed Engineer (FDE) Guide to Shipping Enterprise AI from Pilot to Production"
+  authors:
+    - family-names: Ghanemzadeh
+      given-names: Nasser
+  publisher:
+    name: "Packt Publishing"
+  year: 2026

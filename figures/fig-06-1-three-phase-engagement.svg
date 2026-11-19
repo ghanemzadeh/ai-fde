@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 528" width="640" height="528" role="img" aria-label="The three-phase FDE engagement">
+<title>The three-phase FDE engagement</title>
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7b8794"/>
+  </marker>
+  <marker id="arr-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#1f2933"/>
+  </marker>
+  <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <rect width="10" height="10" fill="#ffffff"/>
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#c4c4c4" stroke-width="1.6"/>
+  </pattern>
+</defs>
+<rect width="640" height="528" fill="#ffffff"/>
+<rect x="30" y="20" width="580" height="132" rx="8" fill="#d6e6f5" stroke="#2f6fae" stroke-width="1.6"/>
+<text x="52" y="54" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="52" dy="0.0">1  Scope</tspan></text>
+<text x="52" y="78" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="start" fill="#52606d" font-style="italic"><tspan x="52" dy="0.0">a few days</tspan></text>
+<text x="52" y="110" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="52" dy="0.0">Output: a one-page</tspan><tspan x="52" dy="19.5">scope both sides sign</tspan></text>
+<line x1="300" y1="36" x2="300" y2="136" stroke="#9aa5b1" stroke-width="1"/>
+<text x="320" y="52" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#1f2933"><tspan x="320" dy="0.0">Watch the work</tspan><tspan x="320" dy="21.8">Find the real problem</tspan><tspan x="320" dy="21.8">Name the sponsor</tspan><tspan x="320" dy="21.8">Check it is a top-five priority</tspan></text>
+<line x1="320" y1="154" x2="320" y2="180" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)"/>
+<rect x="30" y="184" width="580" height="132" rx="8" fill="#fde2c4" stroke="#c4661f" stroke-width="1.6"/>
+<text x="52" y="218" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="52" dy="0.0">2  Validate</tspan></text>
+<text x="52" y="242" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="start" fill="#52606d" font-style="italic"><tspan x="52" dy="0.0">one to three weeks</tspan></text>
+<text x="52" y="274" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="52" dy="0.0">Output: go, adjust,</tspan><tspan x="52" dy="19.5">or stop</tspan></text>
+<line x1="300" y1="200" x2="300" y2="300" stroke="#9aa5b1" stroke-width="1"/>
+<text x="320" y="216" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#1f2933"><tspan x="320" dy="0.0">Build the eval set</tspan><tspan x="320" dy="21.8">Run a baseline on real data</tspan><tspan x="320" dy="21.8">Agree the threshold</tspan></text>
+<line x1="14" y1="342" x2="626" y2="342" stroke="#b23a3a" stroke-width="2.5" stroke-dasharray="9 6"/>
+<rect x="150" y="327" width="340" height="30" fill="#ffffff"/>
+<text x="320" y="348" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15.5" font-weight="bold" text-anchor="middle" fill="#b23a3a"><tspan x="320" dy="0.0">THE GATE: clear the threshold first</tspan></text>
+<line x1="320" y1="358" x2="320" y2="372" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)"/>
+<rect x="30" y="376" width="580" height="132" rx="8" fill="#d8efe0" stroke="#2f8a57" stroke-width="1.6"/>
+<text x="52" y="410" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="20" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="52" dy="0.0">3  Deliver</tspan></text>
+<text x="52" y="434" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="start" fill="#52606d" font-style="italic"><tspan x="52" dy="0.0">weeks to months</tspan></text>
+<text x="52" y="466" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="bold" text-anchor="start" fill="#1f2933"><tspan x="52" dy="0.0">Output: a live system</tspan><tspan x="52" dy="19.5">that moves the metric</tspan></text>
+<line x1="300" y1="392" x2="300" y2="492" stroke="#9aa5b1" stroke-width="1"/>
+<text x="320" y="408" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="start" fill="#1f2933"><tspan x="320" dy="0.0">Ship the smallest end-to-end slice</tspan><tspan x="320" dy="21.8">Instrument from the first commit</tspan><tspan x="320" dy="21.8">Keep a live customer dashboard</tspan><tspan x="320" dy="21.8">Design for handoff</tspan></text>
+</svg>

@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 538" width="640" height="538" role="img" aria-label="The eval loop">
+<title>The eval loop</title>
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#7b8794"/>
+  </marker>
+  <marker id="arr-ink" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+    <path d="M0,0 L10,5 L0,10 z" fill="#1f2933"/>
+  </marker>
+  <pattern id="hatch" width="10" height="10" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+    <rect width="10" height="10" fill="#ffffff"/>
+    <line x1="0" y1="0" x2="0" y2="10" stroke="#c4c4c4" stroke-width="1.6"/>
+  </pattern>
+</defs>
+<rect width="640" height="538" fill="#ffffff"/>
+<rect x="215.0" y="23.0" width="210" height="78" rx="8" fill="#d6e6f5" stroke="#2f6fae" stroke-width="1.6"/>
+<text x="320" y="52" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2933"><tspan x="320" dy="0.0">Eval set = the spec</tspan></text>
+<text x="320" y="74" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d"><tspan x="320" dy="0.0">labeled by the</tspan><tspan x="320" dy="16.8">customer's experts</tspan></text>
+<rect x="405.0" y="171.0" width="210" height="78" rx="8" fill="#f1f3f5" stroke="#9aa5b1" stroke-width="1.6"/>
+<text x="510" y="200" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2933"><tspan x="510" dy="0.0">Run the system</tspan></text>
+<text x="510" y="222" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d"><tspan x="510" dy="0.0">baseline, then every</tspan><tspan x="510" dy="16.8">change</tspan></text>
+<rect x="215.0" y="319.0" width="210" height="78" rx="8" fill="#fde2c4" stroke="#c4661f" stroke-width="1.6"/>
+<text x="320" y="348" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2933"><tspan x="320" dy="0.0">Read the failures</tspan></text>
+<text x="320" y="370" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d"><tspan x="320" dy="0.0">trace by trace;</tspan><tspan x="320" dy="16.8">find the pattern</tspan></text>
+<rect x="25.0" y="171.0" width="210" height="78" rx="8" fill="#f1f3f5" stroke="#9aa5b1" stroke-width="1.6"/>
+<text x="130" y="200" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="16" font-weight="bold" text-anchor="middle" fill="#1f2933"><tspan x="130" dy="0.0">Change one thing</tspan></text>
+<text x="130" y="222" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14" font-weight="normal" text-anchor="middle" fill="#52606d"><tspan x="130" dy="0.0">prompt, rubric,</tspan><tspan x="130" dy="16.8">retrieval, or model</tspan></text>
+<path d="M427,62 Q510,62 510,167" fill="none" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)"/>
+<path d="M510,251 Q510,358 427,358" fill="none" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)"/>
+<path d="M213,358 Q130,358 130,251" fill="none" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)"/>
+<path d="M130,169 Q130,62 211,62" fill="none" stroke="#1f2933" stroke-width="1.8" marker-end="url(#arr-ink)"/>
+<text x="320" y="196.9" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="middle" fill="#52606d" font-style="italic"><tspan x="320" dy="0.0">pass rate climbs</tspan><tspan x="320" dy="18.1">toward the agreed</tspan><tspan x="320" dy="18.1">threshold</tspan></text>
+<rect x="150" y="438" width="280" height="52" rx="8" fill="#d8efe0" stroke="#2f8a57" stroke-width="1.6" stroke-dasharray="6 4"/>
+<text x="290" y="460.0" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="14.5" font-weight="normal" text-anchor="middle" fill="#1f2933"><tspan x="290" dy="0.0">Production traces and</tspan><tspan x="290" dy="18.1">customer corrections</tspan></text>
+<path d="M432,464 C632,464 636,40 427,40" fill="none" stroke="#7b8794" stroke-width="1.8" marker-end="url(#arr)" stroke-dasharray="6 4"/>
+<text x="320" y="520" font-family="Helvetica Neue, Helvetica, Arial, sans-serif" font-size="15" font-weight="normal" text-anchor="middle" fill="#52606d" font-style="italic"><tspan x="320" dy="0.0">New cases join the eval set the same day.</tspan></text>
+</svg>
