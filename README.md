@@ -11,7 +11,7 @@ Everything here is meant to be copied and adapted. You do not need the book to u
 | [templates/](templates/) | The twelve working templates from the book: week-one checklist, scoping document, contract outline, weekly status update, post-engagement synthesis, discovery interview script, eval rubric with a worked example, interview prep, portfolio README, first-slice layout and trace schema |
 | [prompts/](prompts/) | The LLM-judge grading prompt and the rubric it grades against, from Chapter 9 |
 | [eval-harness/](eval-harness/) | A small Python eval harness you can run: deterministic checks, a model judge, judge-versus-human calibration, and a dashboard. It has 36 tests and runs without an API key |
-| [figures/](figures/) | The nine diagrams from the book in color, as SVG and PNG |
+| [figures/](figures/) | The nine diagrams from the book in color, as PNG files |
 | [references/](references/) | All 114 sources the book cites, with links, and a further-reading list by theme |
 
 ## Quick start
